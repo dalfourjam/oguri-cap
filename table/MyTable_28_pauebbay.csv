@@ -1,0 +1,2 @@
+total_objects,clean_count,unclean_count,saturated,psf_flux_interp,bad_counts_error,interp,interp_center,cosmic_ray,edge,blended,deblend_nopeak,deblended_as_psf,notchecked,nopetro
+25,6,19,10,9,1,25,17,20,6,8,17,6,6,15

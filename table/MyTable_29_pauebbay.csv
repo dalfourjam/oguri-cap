@@ -1,0 +1,2 @@
+total_objects,clean_count,unclean_count,saturated,psf_flux_interp,bad_counts_error,interp,interp_center,cosmic_ray,edge,blended,deblend_nopeak,deblended_as_psf,notchecked,nopetro
+38071,36299,1772,884,2301,49,19224,3092,7473,431,1731,194,1721,608,193
