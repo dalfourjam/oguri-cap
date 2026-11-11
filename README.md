@@ -1,2 +1,2 @@
-# oguri-cap
-My collection of ML/research projects
+# Stellar Anomaly Detection
+Stellar Anomaly Detection Project
